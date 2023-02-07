@@ -1,4 +1,7 @@
-# scolkovo
+# EILab
+
+## Описание
+Приложение на Vue.JS v.3 с роутингом, погрузкой данных и адаптивной версткой на SCSS (тестовое задание для "EILab").
 
 ## Project setup
 ```
@@ -14,6 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
